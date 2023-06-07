@@ -1,3 +1,6 @@
+
+CREATE SCHEMA DEMO;
+
 -- Customer Hub
 CREATE TABLE Customer_Hub (
     Customer_Hub_Key INT PRIMARY KEY,
